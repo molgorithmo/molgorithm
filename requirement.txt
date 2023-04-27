@@ -17,3 +17,5 @@ flasgger
 st_pages
 statsmodels
 seaborn
+tensorflow
+keras
