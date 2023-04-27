@@ -7,7 +7,6 @@ MarkupSafe>=2.0.0rc2
 Werkzeug==0.15.5
 numpy>=1.11.0
 pandas>=0.19
-scipy>=0.15.1
 scikit-learn==0.22.1
 matplotlib>=1.4.3
 flasgger==0.9.4
