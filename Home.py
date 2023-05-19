@@ -12,7 +12,7 @@ show_pages(
         Page("pages/Project1.py", "Image Classification", "🔎"),
         Page("pages/Project2.py", "FIFA", "⚽"),
         Page("pages/Project3.py", "Time Series", "🔎"),
-        Page("pages/About.py", "About", ":star:")
+        Page("pages/About.py", "About", "❓")
     ]
 )
 
